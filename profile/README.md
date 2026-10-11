@@ -1,6 +1,4 @@
-<img src="assets/kompendium-mark.svg" alt="Knowledge Kompendium" width="96" align="right">
-
-# Knowledge Kompendium
+<h1><img src="assets/kompendium-mark.svg" alt="" width="48" align="top">&nbsp;Knowledge Kompendium</h1>
 
 The Knowledge Kompendium is an open body of specifications, reference implementations, and curated content for **computable, versioned knowledge**: knowledge that can be exchanged, reasoned over, and evolved safely across organizations.
 

@@ -1,0 +1,25 @@
+name: Specification change
+description: Propose a change to normative specification text or semantics.
+labels: [spec]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What cannot be represented, or is ambiguous, today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed semantics
+      description: The change, with examples. Include DL axioms where relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: compat
+    attributes:
+      label: Compatibility impact
+      description: Effect on existing content, implementations, and released versions.
+    validations:
+      required: true
